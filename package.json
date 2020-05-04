@@ -1,0 +1,12 @@
+{
+  "name": "federalist-test-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "federalist": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
