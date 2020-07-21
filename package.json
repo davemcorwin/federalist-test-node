@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "federalist": "node index.js"
+    "federalist": "MY_ENV_VAR=$BASEURL node index.js"
   },
   "keywords": [],
   "author": "",
